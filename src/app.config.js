@@ -5,6 +5,6 @@
  */
 class AppConfig {
     version = '1.0.0';
-    team = 'Balayya Fan Club';
+    team = 'DJ Tillu';
 }
 module.exports = AppConfig;
